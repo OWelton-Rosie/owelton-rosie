@@ -4,7 +4,7 @@ I'm an NZ'er
 ## Projects
 
 ### alg-`.jsons`
-View all my cubing algorithm `.json` files [here](https://github.com/OWelton-Rosie/alg-jsons).
+A collection of speedcubing algorithm .json files I've written. [https://github.com/OWelton-Rosie/alg-jsons](https://github.com/OWelton-Rosie/alg-jsons)
 
 ## My GitHub stats:
 ![OWelton-Rosie's Stats](https://github-readme-stats.vercel.app/api?username=OWelton-Rosie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
