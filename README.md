@@ -1,3 +1,2 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OWelton-Rosie&theme=default&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OWelton-Rosie&theme=default&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://streak-stats.demolab.com?user=OWelton-Rosie&theme=default&hide_border=true)
+![OWelton-Rosie's Stats](https://github-readme-stats.vercel.app/api?username=OWelton-Rosie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![OWelton-Rosie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OWelton-Rosie&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
