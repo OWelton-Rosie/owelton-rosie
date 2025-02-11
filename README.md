@@ -1,7 +1,9 @@
 # Oscar Welton-Rosie
 I'm an NZ'er
 
-## alg-`.jsons`
+## Projects
+
+### alg-`.jsons`
 View all my cubing algorithm `.json` files [here](https://github.com/OWelton-Rosie/alg-jsons).
 
 ## My GitHub stats:
