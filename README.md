@@ -1,5 +1,4 @@
 # Oscar Welton-Rosie
-I'm an NZ'er
 
 ## Projects
 
